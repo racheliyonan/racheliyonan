@@ -1,5 +1,6 @@
-## Hi there 👋
-
+Hi, my name is Rachel!
+I am a second-year student at ASU studying Computer Science.
+Pronouns: she/her
 <!--
 **racheliyonan/racheliyonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
