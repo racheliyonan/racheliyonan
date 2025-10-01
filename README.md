@@ -1,6 +1,6 @@
 Hi, my name is Rachel!
 I am a second-year student at ASU studying Computer Science.
-I am currently interning with Respondology through the Cornell Break Through Tech program!
+
 <!--
 **racheliyonan/racheliyonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
